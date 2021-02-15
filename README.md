@@ -11,7 +11,8 @@ I have implemented the following technologies :
 - Animations
 - Saving & Deleting Audios
 
-
+# Need Help ?
+I have written an article on this project and explained how to use AVFoundation in ios app . Take a look [here]() 
 # Note
 Feel free to Contribute in this project and report an issue or a feature ! Discuss with me about it via email(mdcode2021@gmail.com) or [linkedin](https://www.linkedin.com/in/my-pro-file/) 
 
