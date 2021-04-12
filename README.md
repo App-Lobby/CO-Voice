@@ -11,7 +11,7 @@ I have implemented the following technologies :
 - Animations
 - Saving & Deleting Audios
 
-# Need Help ?
+# In Addition !
 I have written an article on this project and explained how to use AVFoundation in ios app . Take a look [here](https://mdcode2021.medium.com/audio-recording-in-swiftui-mvvm-with-avfoundation-an-ios-app-6e6c8ddb00cc) 
 
 ![Alt Text](https://github.com/myawesomehub/CO-Voice/blob/main/AppView.gif)
